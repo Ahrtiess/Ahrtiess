@@ -5,6 +5,5 @@
 
 <br>
 
-- 📫 contact@ahrtiess.com
 
 
