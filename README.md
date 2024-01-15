@@ -1,17 +1,63 @@
-<h1 align="center">Salut 👋, je m'appelle Ahrtiess</h1>
-<h3 align="center">Amant de l'informatique</h3>
+<h2 align="left">I'm Ahrtiess</h2>
+<img src="https://cdn.discordapp.com/attachments/1008125810877669446/1196405674964418653/IMG_4600.jpg?ex=65b7829d&is=65a50d9d&hm=b882d848afa5a08fa407508554fba172ad1f430463c2e36d3b3c1a97f2b14ef2&" height="300" align="right">
+<p>I'm 18yd, informatic lover</p>
 
-<p align="left"> <img src="https:// komarev.com/ghpvc/?username=ahrtiess&label=Vu&color=8612c4&style=flat-square" alt="ahrtiess" /> </p>
 
-- 🔭 Je travaille actuellement sur [Amnkel](https://discord.gg/ FqFpngQz)
+### MY SETUP
+<p>
+      <h1>🖥️ Computer</h1>
+      <b>Case :</b><br>
+      - Lian Li O11 Vision Black
+      <br>
+      <b>CPU :</b><br>
+      - Intel 11600K 6x12 4.90 GHz
+   <b>GPU ✰</b><br> 
+      - ASUS RTX 3070 12Go
+      <br>
+      <b>Motherboard :</b><br>
+      - MSI MAG B560 TOMAHAWK WIFI
+      <br>
+      <b>Memory :</b><br>
+      - Kingston Fury Beast DDR4 8x4 (32Go) 3600 MHz
+      <br>
+      <b>Storage ✰</b><br> 
+      - 1x SSD M.2 NVMe "Samsung EvoPLUS 256Go" w/ Windows<br>    
+      - 1x SSD M.2 NVMe "WesternDigital Black Edition 256Go" w/ Debian<br> 
+      - 1x SSD SATA "Crucial MX500 256Go"<br> 
+      - 1x SSD SATA "Crucial MX500 1To"<br>
+      - 2x HDD SATA "WesternDigital Black Edition 1To" & "WesternDigital Black Edition 500Go"<br>
+      <br>
+      <b>Power ✰</b><br> 
+      - Corsair TX750W 80 PLUS Certified Power Supply
+      <br>
+      <b>Aircooling ✰</b><br> 
+      - Cooler Master Hyper 212 RGB Black Edition
+      <br>
+      <h1>⌨️ my peripherals</h1>
+      <b>Desktop ✰</b><br> 
+      - Arozzi ARENA
+      <br>
+      <b>Screens ✰</b><br> 
+      - 1x BenQ ZOWIE 24" 144Hz 1ms 1920x1080 TN<br>
+      - 2x iiyama 24" 75Hz 4ms 1920x1080 VA
+      <br>
+      <b>Keyboard ✰</b><br> 
+      - The G-Lab KeyZ Rubidium E
+      <br>
+      <b>Mouse ✰</b><br> 
+      - Logitech G502 Hero
+      <br>
+      <h1>❓other</h1>
+      <br>
+      <b>Server & NAS ✰</b><br>
+      - Fujitsu Primergy<br>
+      - NAS Synology DS418 (x4 HDD 2To w/ RAID 10 :p)
+      <br>
+      <b>Network ✰</b><br> 
+      - 10Gb/s download :: 700Mb/s upload w/ Free<br>
+      - Serveur NAS IP addr: 192.168.1.100<br>
+      - ESXi IP addr: 192.168.1.101<br>
+      - Windows IP addr: 192.168.1.102<br>
+      - iPhone IP addr: 192.168.1.103<br>
 
-- 📫 Comment me joindre **contact@ahrtiess.com**
-
-<h3 align="left">Connectez-vous avec moi :</h3>
-<p align="left">
-<a href="https:// twitter.com/ahrtiess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/twitter.svg" alt="ahrtiess" height="30" width="40" /></a>
-<a href="https://instagram.com/ahrtiess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahrtiess" height=" 30" width="40" /></a>
-</p>
-
-<h3 align="left">Langues et outils :</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https:// www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target=" _blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw .githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https:/ /www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/fr" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ python/python-original.svg" alt="python" width="40" hauteur="40"/> </a> </p>
+###
