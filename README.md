@@ -4,24 +4,7 @@
 
 # Hi, I'm Ahrtiess 
 
-I'm 18yd.I'm informatic lover
-
-Holberton School Student. :man_technologist:
-
-
-
-- :earth_americas: I'm from Medellin - Colombia
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
-
-
-## Social media :mailbox_with_no_mail:
-
-
-
----
-⭐️ From [FatChicken277](https://github.com/FatChicken277)
-
+I'm 18yd, i'm informatic lover
 
 <p align="right"> <h3>Vues du profil :-</h3> <img src="https://komarev.com/ghpvc/?username=Ahrtiess&label=Profile%20views&color=blueviolet&style=flat"
     alt="Ahrtiess"/> 
