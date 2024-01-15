@@ -1,14 +1,17 @@
+<h1 align="center">Salut 👋, je m'appelle Ahrtiess</h1>
+<h3 align="center">Amant de l'informatique</h3>
 
-<img align="right" width="400" height="400" src="https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-15/e35/72767618_530543940843085_5872510229440679720_n.jpg?_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=QePZ0N-eHRoAX_hftNl&oh=08407c6056b3380fc09d01f51ed9729c&oe=5F30A1C4">
+<p align="left"> <img src="https:// komarev.com/ghpvc/?username=ahrtiess&label=Vu&color=8612c4&style=flat-square" alt="ahrtiess" /> </p>
 
+- 🔭 Je travaille actuellement sur [Amnkel](https://discord.gg/ FqFpngQz)
 
-# Hi, I'm Ahrtiess 
+- 📫 Comment me joindre **contact@ahrtiess.com**
 
-I'm 18yd, i'm informatic lover
+<h3 align="left">Connectez-vous avec moi :</h3>
+<p align="left">
+<a href="https:// twitter.com/ahrtiess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/twitter.svg" alt="ahrtiess" height="30" width="40" /></a>
+<a href="https://instagram.com/ahrtiess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahrtiess" height=" 30" width="40" /></a>
+</p>
 
-<p align="right"> <h3>Vues du profil :-</h3> <img src="https://komarev.com/ghpvc/?username=Ahrtiess&label=Profile%20views&color=blueviolet&style=flat"
-    alt="Ahrtiess"/> 
-  </p>
-
-<br>
-
+<h3 align="left">Langues et outils :</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https:// www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target=" _blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw .githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https:/ /www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/fr" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ python/python-original.svg" alt="python" width="40" hauteur="40"/> </a> </p>
