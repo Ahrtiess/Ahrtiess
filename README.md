@@ -11,6 +11,4 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/>
-
-<a target="_blank" href="https://icons8.com/icon/zfHRZ6i1Wg0U/figma">figma</a> icône par <a target="_blank" href="https://icons8.com">Icons8</a>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://icons8.com/icon/zfHRZ6i1Wg0U/figma">
