@@ -7,7 +7,7 @@
 - I started getting interested in coding in 2020 during lockdown, what was hell for some was heaven for me
 <br>
 
-## What I am Good at :
+## What I use :
 
 <br>
 
